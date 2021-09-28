@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/supersecret/static/css/main.eedf8db2.chunk.css",
+    "main.js": "/supersecret/static/js/main.87c8766f.chunk.js",
+    "main.js.map": "/supersecret/static/js/main.87c8766f.chunk.js.map",
+    "runtime-main.js": "/supersecret/static/js/runtime-main.eb8ee235.js",
+    "runtime-main.js.map": "/supersecret/static/js/runtime-main.eb8ee235.js.map",
+    "static/js/2.e9ec2243.chunk.js": "/supersecret/static/js/2.e9ec2243.chunk.js",
+    "static/js/2.e9ec2243.chunk.js.map": "/supersecret/static/js/2.e9ec2243.chunk.js.map",
+    "static/js/3.b4917e57.chunk.js": "/supersecret/static/js/3.b4917e57.chunk.js",
+    "static/js/3.b4917e57.chunk.js.map": "/supersecret/static/js/3.b4917e57.chunk.js.map",
+    "index.html": "/supersecret/index.html",
+    "static/css/main.eedf8db2.chunk.css.map": "/supersecret/static/css/main.eedf8db2.chunk.css.map",
+    "static/js/2.e9ec2243.chunk.js.LICENSE.txt": "/supersecret/static/js/2.e9ec2243.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb8ee235.js",
+    "static/js/2.e9ec2243.chunk.js",
+    "static/css/main.eedf8db2.chunk.css",
+    "static/js/main.87c8766f.chunk.js"
+  ]
+}
